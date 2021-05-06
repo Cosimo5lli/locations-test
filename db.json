@@ -1,40 +1,40 @@
 {
-    "interests": {
-            "test": {
+    "interests": [
+            {
                 "latitude":43.6268359,
                 "longitude":11.4653564,
                 "address": "Via Benelux, 50063 Figline e Incisa Valdarno Florence, Italy",
                 "description": "Un posto felice, ma serio. Un luogo di lavoro e di caffè."
             },
-            "rignano": {
+            {
                 "latitude":43.72186808722837,
                 "longitude":11.453613191514336,
                 "address": "Palazzo Comunale, Via della Stazione, 50067 Rignano sull'Arno Florence, Italy",
                 "description": "Il municipo di Rignano"
             },
-            "incisa": {
+            {
                 "latitude":43.6635514,
                 "longitude":11.4495108,
                 "address": "Municipio, Piazza del Municipio, 50064 Figline e Incisa Valdarno Florence, Italy",
                 "description": "Il municipio di Incisa (non so come funziona da quando si sono uniti con Figline)"
             },
-            "figline": {
+            {
                 "latitude":43.6635514,
                 "longitude":11.4495108,
                 "address": "Piazza IV Novembre, 50063 Figline e Incisa Valdarno Florence, Italy",
                 "description": "Il municipio di Figline (non so come funziona da quando si sono uniti con Figline)"
             },
-            "firenze": {
+            {
                 "latitude":43.7691638,
                 "longitude":11.2561222,
                 "address": "Palazzo Vecchio, Via del Corno, 50122 Florence Florence, Italy",
                 "description": "Il municipio di Firenze"
             },
-            "duomo": {
+            {
                 "latitude":43.7731017,
                 "longitude":11.2565747,
                 "address": "Santa Maria del Fiore, Piazza del Duomo, Florence Florence, Italy",
                 "description": "Il duomo di Firenze"
             }
-        }
+        ]
 }
